@@ -1,0 +1,1 @@
+idf_component_register(SRCS "src/map.c" "src/io_posix.c" "src/memory.c" "src/parse.c" "src/way.c" INCLUDE_DIRS "./include" REQUIRES hagl )
