@@ -1,5 +1,5 @@
-## SPI master example
+## ESP32-C3 Mapmini Example
 
-This code displays some simple graphics with varying pixel colors on the 320x240 LCD on an ESP-WROVER-KIT board.
+This project serves to demonstrate initial performance of the mapmini library and further develop the feature set of the [mapmini](https://github.com/btheobald/mapmini) library to better support running on low-power embedded devices.
 
-If you want to adapt this example to another type of display or pinout, check [main/spi_master_example_main.c] for comments with some implementation details.
+<img src=espc3.jpg alt="Example of the library running on an ESP32-C3" width="500">
